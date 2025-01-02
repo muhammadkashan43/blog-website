@@ -54,7 +54,7 @@ export default function Page() {
             number === "01"
               ? "Using a list of words and concepts to generate as many ideas as possible. This helps develop new ideas through a process of listing, writing down ideas as they occur, and then going back to review and evaluate them."
               : number === "02"
-              ? "Our team will analyze your text for spelling or grammatical errors and check for plagiarism. Based on findings, feedback and suggestions about the content's structure will be provided to you before the publish live."
+              ? "Our team will analyze your text for spelling or grammatical errors and check for plagiarism. Based on findings, feedback and suggestions about the content&apos;s structure will be provided to you before the publish live."
               : "After completing the writing and editing process, your content will be published. You can track its performance through our analytics dashboard, which shows engagement metrics and reader feedback."
           }
           isActive={activeCard === number}
@@ -65,7 +65,7 @@ export default function Page() {
           <StepCard
             number="02"
             title="Analyzing"
-            description="Our team will analyze your text for spelling or grammatical errors and check for plagiarism. Based on findings, feedback and suggestions about the content's structure will be provided to you before the publish live."
+            description="Our team will analyze your text for spelling or grammatical errors and check for plagiarism. Based on findings, feedback and suggestions about the content&apos;s structure will be provided to you before the publish live."
           />
           <StepCard
             number="03"

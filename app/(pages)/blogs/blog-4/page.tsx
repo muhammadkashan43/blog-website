@@ -24,15 +24,15 @@ export default function Page() {
 
       <div className="prose prose-lg max-w-none">
         <p>
-          Virtual reality game building is VR is a new arena with technology to benefit in individuals, businesses and corporations. VR/AR/XR is pushing the boundaries of gaming. It's time to think about VR design and learn how to make your games look more attractive.
+          Virtual reality game building is VR is a new arena with technology to benefit in individuals, businesses and corporations. VR/AR/XR is pushing the boundaries of gaming. It&apos;s time to think about VR design and learn how to make your games look more attractive.
         </p>
 
         <p>
-          The VR industry has grown exponentially in recent years, with new technologies and platforms emerging regularly. Game developers need to stay ahead of the curve and keep adapting their strategies to get maximum performance out of VR titles they wish to build or deploy. Today, we'll explore in detail some key elements that make VR a transformative tool in the gaming industry and how AI technology is changing the way we build traditional video games.
+          The VR industry has grown exponentially in recent years, with new technologies and platforms emerging regularly. Game developers need to stay ahead of the curve and keep adapting their strategies to get maximum performance out of VR titles they wish to build or deploy. Today, we&apos;ll explore in detail some key elements that make VR a transformative tool in the gaming industry and how AI technology is changing the way we build traditional video games.
         </p>
 
         <ArticleBlockquote>
-          "People think that computers will set us free and that they will solve all their problems in that they are stupid and they obviously didn't use the world"
+          "People think that computers will set us free and that they will solve all their problems in that they are stupid and they obviously didn&apos;t use the world"
         </ArticleBlockquote>
 
         <p>
