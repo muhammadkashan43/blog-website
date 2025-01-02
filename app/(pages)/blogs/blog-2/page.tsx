@@ -32,7 +32,7 @@ export default function Page() {
         </p>
 
         <ArticleBlockquote>
-          "People think that computers will set us free and that they will solve all their problems in that they are stupid and they obviously didn&apos;t use the world"
+        &quot;People think that computers will set us free and that they will solve all their problems in that they are stupid and they obviously didn&apos;t use the world&quot;
         </ArticleBlockquote>
 
         <p>
